@@ -25,7 +25,7 @@ const myQuestions = [
         },
         correctAnswer: 'b',
         longAnswer: 'The Spanish Armada took place in 1588.',
-        picture: '../images/spanishArmada.jpg'
+        picture: 'Assets/images/spanishArmada.jpg'
     },
     {
         question: "What year did Neil Armstrong and Buzz Aldrin land on the moon?",
@@ -37,7 +37,7 @@ const myQuestions = [
         },
         correctAnswer: 'd',
         longAnswer: 'Apollo 11 landed on the moon on July 20, 1969.',
-        picture: 'assets/images/lunarLanding.jpg'
+        picture: 'Assets/images/lunarLanding.jpg'
     },
     {
         question: "Who was the second President of the United States?",
@@ -49,7 +49,7 @@ const myQuestions = [
         },
         correctAnswer: 'b',
         longAnswer: 'John Adams was the second President of the United States.',
-        picture: 'assets/images/johnAdams.jpg'
+        picture: 'Assets/images/johnAdams.jpg'
     },
     {
         question: "Who was not a leader for the Texans during the Texas Revolution?",
@@ -61,7 +61,7 @@ const myQuestions = [
         },
         correctAnswer: 'c',
         longAnswer: 'John Bastrop was not a leader of the Texas Revolution.',
-        picture: 'assets/images/texasRevolution.jpg'
+        picture: 'Assets/images/texasRevolution.jpg'
     },
     {
         question: "What agreement created the Republic of Texas?",
@@ -73,7 +73,7 @@ const myQuestions = [
         },
         correctAnswer: 'a',
         longAnswer: 'The Treaties of Velasco created the Republic of Texas.',
-        picture: 'assets/images/texas.jpg'
+        picture: 'Assets/images/texas.jpg'
     },
     {
         question: "What year was the Battle of the Alamo in San Antonio, Texas?",
@@ -85,7 +85,7 @@ const myQuestions = [
         },
         correctAnswer: 'd',
         longAnswer: 'The Battle of the Alamo was fought between February 23rd and March 6th in 1836.',
-        picture: 'assets/images/alamo.png'
+        picture: 'Assets/images/alamo.png'
     },
     {
         question: "Which Supreme Court case upheld the concept of Judicial Review?",
@@ -97,7 +97,7 @@ const myQuestions = [
         },
         correctAnswer: 'a',
         longAnswer: 'The landmark case of Marbury v. Madison cemented the concept of Judicial Review and was a key moment in American history.',
-        picture: 'assets/images/justice.jpg'
+        picture: 'Assets/images/justice.jpg'
     },
     {
         question: "Which Supreme Court Justice of the United States was Secretary of State under President John Adams?",
@@ -109,7 +109,7 @@ const myQuestions = [
         },
         correctAnswer: 'b',
         longAnswer:  'John Marshall was arguable the most influential Supreme Court Justice in history, but was also previously Sectretary of State under John Adams.',
-        picture: 'assets/images/johnMarshall.jpg'
+        picture: 'Assets/images/johnMarshall.jpg'
     },
     {
         question: "What year was the Invasion of Normandy?",
@@ -121,7 +121,7 @@ const myQuestions = [
         },
         correctAnswer: 'a',
         longAnswer: 'The Invastion of Normandy began on June 6, 1944. ',
-        picture: 'assets/images/invasionOfNormandy.jpg'
+        picture: 'Assets/images/invasionOfNormandy.jpg'
     },
     {
         question: "In what year was King Louis XVI of France excuted by guillotine?",
@@ -133,7 +133,7 @@ const myQuestions = [
         },
         correctAnswer: 'c',
         longAnswer:  'A key moment in the French Revolution, King Louis XVI was executed  on January 21, 1793.',
-        picture: 'assets/images/kingLouis.jpg'
+        picture: 'Assets/images/kingLouis.jpg'
     }
 
     

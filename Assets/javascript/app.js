@@ -25,7 +25,7 @@ const myQuestions = [
         },
         correctAnswer: 'b',
         longAnswer: 'The Spanish Armada took place in 1588.',
-        picture: 'assets/images/spanishArmada.jpg'
+        picture: '../images/spanishArmada.jpg'
     },
     {
         question: "What year did Neil Armstrong and Buzz Aldrin land on the moon?",
